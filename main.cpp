@@ -41,5 +41,5 @@ int main()
 
    cout << "Temps total : " << tempstotal << " heures " << endl; //juste heures? je peux faite comme ca?
 
-   EXIT_SUCCESS;
+   return EXIT_SUCCESS;
 }
